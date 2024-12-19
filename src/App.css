@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+.logoName{
+  font-family: Bebas Neue;
+  font-size: 60px;
+}
+
+nav{
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  display: flex;
+  justify-content:  space-between;
+  background-color: rgb(0, 0, 0);
+}
+
+.linkText{
+  color: white;
+  text-decoration: none;
+}
+
+/* .linkText:hover{
+  color: black;
+} */
+
+.section1 , .section2{
+  margin: 42px;
+  border: 2px solid red;
+  padding: 10px 20px ;
+  border-radius: 5px;
+  background-color: red;
+}
+
+.buttonSearch{
+  height: 40px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 2px solid red;
+  background-color: red;
+  color: white;
+}
+
+.detailsButton{
+  height: 40px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 2px solid red;
+  background-color: red;
+  
+}
+
+.detailsLink{
+  color: white;
+  text-decoration: none;
+}
+
+/* .section2:hover {
+  background-color: #fff;
+} */
+
+.section1:hover{
+  background-color: #fff;
+}
+
+
+
+input{
+  margin-top: 15px;
+  width: 250px;
+  height: 40px;
+  border-radius: 8px;
+}
+
+h1{
+  color: red;
+  margin: 40px;
+  font-size: 40px;
+}
+.div1{
+  display: flex;
+  justify-content: center;
+}
+
+ul{
+  list-style: none;
+}
+.card{
+  color: white;
+  width: 320px;
+  border: 1px solid  black;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+}
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  transition: box-shadow 0.5s;
+}
+main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.button {
+  margin: 10px;
+  background-color: red;
+  color: #fff;
+  width: 86px;
+    height: 30px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: #fff;
+    border: 2px solid red;
+    color: #282c34;
+}
+.button a{
+  color: #fff;
+  text-decoration: none;
+}
+.button a:hover{
+  
+  color: black;
+}
+
+.detailSection{
+  color: white;
+  padding: 50px;
+}
