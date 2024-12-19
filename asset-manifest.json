@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Layihe4/static/css/main.483619f2.css",
+    "main.js": "/Layihe4/static/js/main.050e2711.js",
+    "static/js/488.7205a5fc.chunk.js": "/Layihe4/static/js/488.7205a5fc.chunk.js",
+    "index.html": "/Layihe4/index.html",
+    "main.483619f2.css.map": "/Layihe4/static/css/main.483619f2.css.map",
+    "main.050e2711.js.map": "/Layihe4/static/js/main.050e2711.js.map",
+    "488.7205a5fc.chunk.js.map": "/Layihe4/static/js/488.7205a5fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483619f2.css",
+    "static/js/main.050e2711.js"
+  ]
+}
